@@ -50,6 +50,7 @@ In the simulation page:
 * **Enter**: Randomize the population with new seeds
 * **S**: Toggle into drawing mode
 * **Y**: Save the current best seed
+
 In the drawing mode:
 * **Left Click**: Draw alive cells
 * **Right Click**: Erase cells (make them dead)
