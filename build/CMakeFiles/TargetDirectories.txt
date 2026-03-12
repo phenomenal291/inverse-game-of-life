@@ -1,0 +1,3 @@
+/home/phuc/Desktop/Project/lifegame/build/CMakeFiles/gameoflife.dir
+/home/phuc/Desktop/Project/lifegame/build/CMakeFiles/edit_cache.dir
+/home/phuc/Desktop/Project/lifegame/build/CMakeFiles/rebuild_cache.dir
