@@ -36,6 +36,7 @@ Because the Game of Life is highly chaotic, I implemented a Genetic Algorithm to
 * CMake
 
 ## Running the Code 
+*Potential Error: The SFML require text font directory that will be different on others computer. So please replace with your compatible directory*
 ```
 git clone 
 cd build 
